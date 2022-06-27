@@ -1,0 +1,16 @@
+{
+  "filmai": [
+    {
+      "title": "Titanic",
+      "body": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "author": "James Cameron",
+      "id": 2
+    },
+    {
+      "title": "The Godfather",
+      "body": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "author": " Francis Ford Coppola",
+      "id": 3
+    }
+  ]
+}
